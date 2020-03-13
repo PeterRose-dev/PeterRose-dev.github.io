@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ENCODING THE MIND"
-date:       2020-03-13 19:46:36 +0000
+date:       2020-03-13 15:46:36 -0400
 permalink:  encoding_the_mind
 ---
 
